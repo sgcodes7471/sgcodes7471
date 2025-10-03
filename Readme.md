@@ -55,7 +55,7 @@ Download
 
 #### Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,cpp,go,java"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,go,java,solidity"/>
 
 <!-- #### Libraries -->
 
