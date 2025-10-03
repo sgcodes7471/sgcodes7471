@@ -109,4 +109,4 @@ Download
 
 <!-- #### [View all Contributions](https://github.com/sgcodes7471/MyContributions) -->
 
-<h3 align="center"> <b> Show some ❤️ by starring some of the repositories! </b> </h3>
+<!-- <h3 align="center"> <b> Show some ❤️ by starring some of the repositories! </b> </h3> -->
