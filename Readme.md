@@ -85,7 +85,7 @@ Download
 
 #### Tools and Others
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,supabase,linux,git,docker,aws"/>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,supabase,linux,git,docker,aws,redis,kafka"/>
 
 <!-- ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
