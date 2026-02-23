@@ -6,45 +6,12 @@ Glad to see you here 🤩!
 
 I'm a Undergrad Engineering student in at the **Indian Institute of Technology, Guwahati**, diving deep into the world of Intelligent Systems. My mission? To build softwares that can see, hear, and understand context, moving us closer to truly aware and helpful technology. I have exposure to various 
 
-### What Keeps Me Busy (Besides Deadlines):
-
-My work is a mix of broad research interests and specific, ongoing projects.
-
-**Core Interests:**
-- **Web3/Defi:** Working on exciting projects that blend innovation with a pinch of finance.
-- **AI/ML:** Crafting models to understand text, interpret images, and sometimes both simultaneously.
-
-**Current Focus:**
-- 📚 **Open Source:** Contributing back to the community, from which I learnt.
-- 🧹 **Finishing What I Started:** I'm on a mission to finish my incomplete projects before starting new ones. (Holding myself accountable!)
-- 💻 **The Daily Grind:** And of course, LeetCode and Codeforces. (It's a love-hate relationship.)
-
-### A Bit About My Code Life:
-
-I started my journey in full-stack development, building web apps from scratch. That foundation gave me a deep appreciation for building things that people can actually use. My curiosity, however, pulled me into the various rabbit hole - blockchain, AI, games. Now, I'm obsessed with closing the gap between a research paper and a production-ready intelligent system. I couldn't be more excited about what's next.
-
-### Beyond the Code
-
-When I'm not coding or debugging code, you'll likely find me:
-- In the gym 
-- Sleeping :|
-
-### Let's Collborate:
 
 I'm always open to discussing new ideas, collaborating on interesting projects, or just chatting about the future of AI.  Feel free to [reach out](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=official06srinjoy@gmail.com)!
 
 Download
 <a href="https://iitgoffice-my.sharepoint.com/:b:/g/personal/srinjoy_iitg_ac_in/Ef7npRgjZMlPqhY9zUyBRBoBHamP8o995X7_YppsR8DEWA?e=ZV4Lr8" target="_blank"><img src="https://img.shields.io/badge/Resume-%23121011.svg?logo=google-chrome&logoColor=white" alt="Resume"></a>
 
-
-## 💫 Talking about personal stuff
-
-🔭 I’m currently learning Machine Learning stuff.  
-👯 I’m looking to collaborate on DL/ML projects.  
-🌱 I have explored the web3 domain and won a couple of hacks/competitions 
-👨‍💻 Most of my projects are available on GitHub.  
-💬 Ask me about web development. I am happy to help.  
-📧 Reach me out at : official06srinjoy@gmail.com.  
 
 ## 🌐 Socials
 
@@ -55,7 +22,7 @@ Download
 
 #### Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,go,java,solidity"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,go"/>
 
 <!-- #### Libraries -->
 
@@ -102,8 +69,6 @@ Download
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgcodes7471&layout=compact&hide_progress=true&theme=github_dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## 📔 Projects I have worked on
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astro-reactive&repo=astro-reactive&show_owner=true&theme=github_dark)](https://github.com/astro-reactive/astro-reactive) -->
 
