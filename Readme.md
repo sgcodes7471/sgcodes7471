@@ -64,11 +64,11 @@ Download
 
 ## 📊 GitHub Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sgcodes7471&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=sgcodes7471&theme=github-dark&background=0D1117&border=FFFFFF&stroke=4B8DDA&currStreakNum=C3D1D9&ring=1B2F45&sideLabels=C3D1D9&sideNums=C3D1D9&currStreakLabel=C3D1D9&dates=767F84)](https://git.io/streak-stats)
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sgcodes7471&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=sgcodes7471&theme=github-dark&background=0D1117&border=FFFFFF&stroke=4B8DDA&currStreakNum=C3D1D9&ring=1B2F45&sideLabels=C3D1D9&sideNums=C3D1D9&currStreakLabel=C3D1D9&dates=767F84)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgcodes7471&layout=compact&hide_progress=true&theme=github_dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgcodes7471&layout=compact&hide_progress=true&theme=github_dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astro-reactive&repo=astro-reactive&show_owner=true&theme=github_dark)](https://github.com/astro-reactive/astro-reactive) -->
 
